@@ -1,0 +1,501 @@
+ProductID,ProductName,Category,SupplierID,Cost,SellingPrice,ProductWeight,UnitOfMeasure,IsActive
+1,Product 1,Office Supplies,4,11.77,17.01,23.34,Unit,True
+2,Product 2,Industrial Equipment,17,81.22,142.91,35.42,Pallet,True
+3,Product 3,Safety Equipment,5,490.22,659.95,19.49,Box,True
+4,Product 4,Packaging,11,141.74,237.27,46.75,Case,True
+5,Product 5,Safety Equipment,19,145.01,199.99,49.95,Pallet,True
+6,Product 6,Industrial Equipment,18,226.04,336.94,38.26,Pallet,True
+7,Product 7,Office Supplies,19,164.28,215.73,19.46,Pallet,True
+8,Product 8,Packaging,13,373.63,606.45,49.43,Box,True
+9,Product 9,Safety Equipment,11,23.32,35.01,43.55,Pallet,True
+10,Product 10,Office Supplies,14,455.67,551.0,43.61,Box,True
+11,Product 11,Safety Equipment,23,391.86,532.54,20.18,Unit,True
+12,Product 12,Packaging,11,426.91,732.41,31.53,Pallet,True
+13,Product 13,Industrial Equipment,8,22.77,28.26,37.46,Pallet,False
+14,Product 14,Electronics,15,381.38,618.73,8.74,Case,True
+15,Product 15,Industrial Equipment,12,27.77,46.59,19.05,Box,True
+16,Product 16,Office Supplies,6,208.97,336.25,9.17,Pallet,True
+17,Product 17,Office Supplies,8,124.21,217.08,23.33,Case,True
+18,Product 18,Packaging,10,335.09,582.84,34.04,Box,True
+19,Product 19,Industrial Equipment,21,472.89,847.7,48.12,Case,True
+20,Product 20,Packaging,4,154.55,278.13,12.24,Case,True
+21,Product 21,Packaging,9,496.38,683.58,0.9,Unit,True
+22,Product 22,Industrial Equipment,25,373.86,635.45,40.04,Case,True
+23,Product 23,Office Supplies,21,99.12,133.85,5.31,Unit,True
+24,Product 24,Office Supplies,3,223.21,345.47,45.53,Case,True
+25,Product 25,Safety Equipment,12,91.94,117.62,26.78,Case,True
+26,Product 26,Packaging,10,132.2,224.05,37.45,Case,True
+27,Product 27,Office Supplies,22,236.82,294.88,36.35,Pallet,True
+28,Product 28,Packaging,1,403.27,572.43,13.59,Unit,True
+29,Product 29,Safety Equipment,13,338.05,542.03,41.21,Case,True
+30,Product 30,Safety Equipment,11,120.74,146.7,45.81,Box,True
+31,Product 31,Industrial Equipment,21,319.52,472.43,20.71,Box,True
+32,Product 32,Electronics,4,23.42,42.1,12.12,Box,True
+33,Product 33,Safety Equipment,14,188.65,333.84,29.57,Box,True
+34,Product 34,Safety Equipment,14,329.19,559.69,46.98,Case,True
+35,Product 35,Office Supplies,12,188.41,276.21,5.42,Case,True
+36,Product 36,Packaging,9,489.03,692.08,9.9,Unit,True
+37,Product 37,Office Supplies,21,412.97,518.28,32.15,Unit,True
+38,Product 38,Safety Equipment,7,170.09,305.02,3.9,Box,True
+39,Product 39,Office Supplies,20,407.46,545.91,0.64,Box,False
+40,Product 40,Electronics,22,272.41,457.41,43.39,Box,True
+41,Product 41,Industrial Equipment,1,396.04,531.79,9.13,Unit,True
+42,Product 42,Electronics,16,213.38,270.61,22.69,Case,True
+43,Product 43,Safety Equipment,2,58.98,88.61,36.5,Case,True
+44,Product 44,Packaging,13,482.19,596.23,21.6,Unit,True
+45,Product 45,Electronics,11,455.3,566.44,30.61,Unit,True
+46,Product 46,Industrial Equipment,13,314.04,487.14,49.73,Case,True
+47,Product 47,Electronics,21,304.69,383.76,32.72,Box,True
+48,Product 48,Packaging,13,444.61,643.92,21.09,Unit,True
+49,Product 49,Office Supplies,22,159.7,216.06,46.19,Unit,True
+50,Product 50,Industrial Equipment,5,47.26,68.96,28.04,Case,True
+51,Product 51,Packaging,24,208.35,359.23,3.05,Case,True
+52,Product 52,Office Supplies,5,179.06,276.96,33.01,Box,True
+53,Product 53,Electronics,25,178.31,273.48,14.29,Box,True
+54,Product 54,Safety Equipment,20,423.35,755.56,33.91,Unit,True
+55,Product 55,Electronics,6,330.63,534.33,14.03,Case,True
+56,Product 56,Office Supplies,19,178.76,233.97,33.04,Unit,True
+57,Product 57,Safety Equipment,7,318.42,387.96,19.12,Pallet,True
+58,Product 58,Safety Equipment,20,188.18,307.29,4.71,Unit,True
+59,Product 59,Electronics,9,378.45,465.44,22.43,Pallet,True
+60,Product 60,Safety Equipment,4,223.81,305.25,17.59,Unit,True
+61,Product 61,Industrial Equipment,2,340.85,508.54,11.42,Unit,True
+62,Product 62,Office Supplies,25,154.2,204.58,13.15,Case,True
+63,Product 63,Office Supplies,13,251.21,366.36,26.86,Box,True
+64,Product 64,Electronics,13,417.51,702.97,43.16,Unit,True
+65,Product 65,Industrial Equipment,19,232.58,289.96,21.75,Pallet,True
+66,Product 66,Electronics,11,211.76,268.75,9.01,Pallet,True
+67,Product 67,Electronics,8,460.29,576.69,22.07,Pallet,True
+68,Product 68,Industrial Equipment,8,200.9,278.48,16.99,Box,True
+69,Product 69,Office Supplies,25,318.45,483.52,17.79,Box,True
+70,Product 70,Safety Equipment,5,77.49,102.16,38.13,Unit,True
+71,Product 71,Safety Equipment,25,387.56,579.97,29.18,Case,True
+72,Product 72,Electronics,16,315.47,407.14,22.39,Case,True
+73,Product 73,Electronics,10,297.75,420.17,23.36,Unit,True
+74,Product 74,Electronics,20,416.69,519.21,29.91,Pallet,True
+75,Product 75,Electronics,15,279.39,468.0,45.5,Box,True
+76,Product 76,Electronics,15,240.44,310.29,5.62,Case,False
+77,Product 77,Electronics,8,46.74,74.21,35.53,Pallet,True
+78,Product 78,Industrial Equipment,13,306.85,435.22,20.73,Case,True
+79,Product 79,Industrial Equipment,3,30.92,48.81,16.82,Pallet,True
+80,Product 80,Safety Equipment,5,363.25,579.0,17.0,Box,True
+81,Product 81,Packaging,5,158.56,252.69,29.95,Unit,True
+82,Product 82,Office Supplies,22,191.46,320.69,35.29,Unit,True
+83,Product 83,Industrial Equipment,10,214.59,304.09,9.42,Box,True
+84,Product 84,Office Supplies,5,384.25,505.37,4.32,Unit,True
+85,Product 85,Safety Equipment,2,272.19,447.26,33.27,Box,True
+86,Product 86,Safety Equipment,6,81.36,106.46,36.2,Unit,True
+87,Product 87,Packaging,20,339.8,456.19,14.6,Pallet,True
+88,Product 88,Packaging,7,123.39,219.55,18.71,Pallet,True
+89,Product 89,Safety Equipment,14,144.48,206.48,48.33,Box,True
+90,Product 90,Packaging,12,73.51,99.24,27.95,Unit,True
+91,Product 91,Electronics,25,260.38,331.93,8.44,Pallet,True
+92,Product 92,Office Supplies,15,77.94,113.99,44.29,Unit,True
+93,Product 93,Packaging,3,201.24,286.64,19.06,Unit,True
+94,Product 94,Industrial Equipment,5,54.05,88.04,7.31,Case,True
+95,Product 95,Packaging,15,238.87,405.76,30.96,Unit,True
+96,Product 96,Safety Equipment,17,111.75,144.13,21.45,Case,True
+97,Product 97,Safety Equipment,15,65.31,87.72,3.61,Pallet,True
+98,Product 98,Office Supplies,23,13.14,19.83,7.61,Pallet,True
+99,Product 99,Office Supplies,22,179.64,277.08,33.58,Case,True
+100,Product 100,Safety Equipment,18,265.4,399.27,1.51,Pallet,True
+101,Product 101,Electronics,12,196.51,279.83,39.53,Case,True
+102,Product 102,Safety Equipment,24,330.27,416.87,37.96,Box,True
+103,Product 103,Office Supplies,25,275.28,464.7,34.39,Pallet,True
+104,Product 104,Packaging,2,406.69,503.43,15.03,Unit,True
+105,Product 105,Industrial Equipment,17,443.47,616.14,20.21,Pallet,True
+106,Product 106,Industrial Equipment,25,377.88,496.78,2.87,Case,True
+107,Product 107,Packaging,24,400.67,585.85,22.27,Pallet,True
+108,Product 108,Industrial Equipment,17,97.47,157.44,13.7,Unit,True
+109,Product 109,Office Supplies,18,44.07,68.81,15.04,Unit,True
+110,Product 110,Safety Equipment,23,332.16,459.68,21.59,Pallet,True
+111,Product 111,Industrial Equipment,20,25.97,44.72,49.91,Case,True
+112,Product 112,Packaging,12,396.78,489.79,25.9,Box,True
+113,Product 113,Packaging,2,75.68,118.4,6.75,Box,True
+114,Product 114,Safety Equipment,2,186.33,266.4,30.45,Pallet,True
+115,Product 115,Safety Equipment,5,189.15,313.58,26.71,Pallet,True
+116,Product 116,Electronics,24,142.95,253.92,9.71,Pallet,True
+117,Product 117,Packaging,7,63.29,105.38,49.82,Case,True
+118,Product 118,Office Supplies,3,499.32,659.16,22.88,Pallet,False
+119,Product 119,Industrial Equipment,22,406.2,723.25,17.7,Unit,True
+120,Product 120,Office Supplies,23,148.73,205.24,35.62,Box,True
+121,Product 121,Office Supplies,5,256.83,326.9,12.22,Pallet,True
+122,Product 122,Safety Equipment,5,279.24,396.9,30.79,Unit,True
+123,Product 123,Packaging,17,202.09,329.44,20.83,Pallet,True
+124,Product 124,Electronics,15,41.51,74.03,23.56,Case,True
+125,Product 125,Safety Equipment,6,415.38,635.86,38.51,Box,True
+126,Product 126,Electronics,17,455.8,562.11,8.07,Box,True
+127,Product 127,Safety Equipment,10,467.7,624.51,42.37,Case,True
+128,Product 128,Industrial Equipment,20,478.39,652.84,26.91,Box,True
+129,Product 129,Safety Equipment,24,292.42,380.94,45.15,Case,True
+130,Product 130,Electronics,3,283.99,481.4,2.75,Case,True
+131,Product 131,Electronics,16,384.64,557.71,44.51,Case,True
+132,Product 132,Packaging,10,154.54,208.15,22.95,Unit,True
+133,Product 133,Industrial Equipment,20,210.73,311.6,7.61,Case,True
+134,Product 134,Office Supplies,25,431.08,769.57,18.84,Unit,True
+135,Product 135,Office Supplies,5,235.9,320.94,5.29,Case,True
+136,Product 136,Office Supplies,11,432.76,627.88,46.72,Case,True
+137,Product 137,Packaging,16,83.87,150.76,44.01,Pallet,True
+138,Product 138,Office Supplies,7,472.89,710.88,29.38,Unit,True
+139,Product 139,Packaging,10,249.97,432.3,27.07,Unit,True
+140,Product 140,Packaging,12,441.82,723.04,2.74,Unit,True
+141,Product 141,Electronics,13,101.35,155.26,25.46,Case,True
+142,Product 142,Office Supplies,4,313.5,491.14,20.0,Case,True
+143,Product 143,Safety Equipment,17,185.98,239.27,20.37,Unit,True
+144,Product 144,Packaging,17,72.83,101.95,23.12,Box,True
+145,Product 145,Safety Equipment,24,308.47,400.24,42.21,Case,True
+146,Product 146,Safety Equipment,10,257.31,384.4,24.01,Unit,True
+147,Product 147,Safety Equipment,10,338.53,605.27,39.94,Unit,True
+148,Product 148,Safety Equipment,19,136.44,217.4,11.76,Unit,True
+149,Product 149,Safety Equipment,25,89.4,141.02,42.14,Box,True
+150,Product 150,Electronics,7,124.89,192.77,1.44,Case,True
+151,Product 151,Safety Equipment,25,209.42,276.92,30.77,Pallet,True
+152,Product 152,Office Supplies,17,369.24,456.89,10.76,Case,False
+153,Product 153,Office Supplies,15,241.79,344.82,45.65,Case,True
+154,Product 154,Industrial Equipment,20,339.55,584.23,24.47,Box,True
+155,Product 155,Industrial Equipment,25,152.76,269.6,14.81,Box,True
+156,Product 156,Safety Equipment,24,247.06,367.6,14.04,Unit,True
+157,Product 157,Packaging,12,273.88,475.85,47.75,Box,True
+158,Product 158,Industrial Equipment,15,147.38,240.01,32.97,Pallet,True
+159,Product 159,Safety Equipment,23,414.84,565.29,13.95,Unit,True
+160,Product 160,Safety Equipment,8,295.48,397.56,32.08,Unit,True
+161,Product 161,Office Supplies,1,168.5,249.96,48.24,Box,True
+162,Product 162,Packaging,21,467.84,807.98,10.37,Case,True
+163,Product 163,Electronics,21,324.72,566.56,28.92,Unit,True
+164,Product 164,Office Supplies,2,91.66,158.51,49.86,Pallet,True
+165,Product 165,Industrial Equipment,2,97.22,160.35,0.96,Unit,True
+166,Product 166,Safety Equipment,17,170.85,251.6,24.95,Box,True
+167,Product 167,Electronics,11,236.67,311.38,8.54,Pallet,True
+168,Product 168,Industrial Equipment,10,360.71,435.9,28.61,Box,True
+169,Product 169,Packaging,17,428.79,745.33,16.73,Pallet,True
+170,Product 170,Industrial Equipment,8,96.47,123.9,0.84,Pallet,True
+171,Product 171,Industrial Equipment,19,378.11,670.17,36.28,Unit,True
+172,Product 172,Electronics,15,182.98,245.52,15.69,Pallet,True
+173,Product 173,Industrial Equipment,23,461.94,800.39,6.31,Case,True
+174,Product 174,Packaging,5,114.32,202.85,23.02,Case,True
+175,Product 175,Safety Equipment,22,276.87,410.46,41.37,Box,True
+176,Product 176,Safety Equipment,15,299.93,501.61,26.64,Case,True
+177,Product 177,Safety Equipment,17,284.26,351.65,10.51,Box,True
+178,Product 178,Office Supplies,23,427.97,627.02,29.37,Unit,True
+179,Product 179,Office Supplies,17,225.51,278.14,21.06,Unit,True
+180,Product 180,Electronics,13,338.02,468.12,13.1,Unit,True
+181,Product 181,Industrial Equipment,23,291.26,357.43,3.66,Unit,True
+182,Product 182,Electronics,10,39.16,68.93,20.74,Box,True
+183,Product 183,Packaging,12,489.27,776.73,49.65,Pallet,True
+184,Product 184,Electronics,22,458.97,654.72,48.23,Box,True
+185,Product 185,Safety Equipment,13,177.15,231.55,26.68,Box,True
+186,Product 186,Packaging,22,379.31,677.86,36.1,Pallet,True
+187,Product 187,Industrial Equipment,5,412.56,556.34,14.14,Unit,True
+188,Product 188,Electronics,8,331.8,520.58,10.7,Unit,True
+189,Product 189,Electronics,8,225.99,362.31,37.16,Pallet,True
+190,Product 190,Electronics,5,272.18,449.81,25.44,Case,True
+191,Product 191,Safety Equipment,20,458.62,708.87,38.74,Case,True
+192,Product 192,Safety Equipment,8,438.75,785.98,20.97,Case,True
+193,Product 193,Office Supplies,21,474.52,819.89,34.1,Pallet,True
+194,Product 194,Packaging,17,175.49,278.33,16.28,Pallet,True
+195,Product 195,Safety Equipment,16,153.44,201.06,12.43,Box,True
+196,Product 196,Electronics,18,355.25,598.05,20.93,Pallet,True
+197,Product 197,Office Supplies,11,71.38,96.06,32.51,Pallet,True
+198,Product 198,Office Supplies,2,50.77,83.0,13.79,Unit,True
+199,Product 199,Safety Equipment,7,98.14,162.62,24.23,Case,True
+200,Product 200,Office Supplies,24,454.95,603.76,6.31,Pallet,True
+201,Product 201,Packaging,8,349.34,566.72,27.83,Case,True
+202,Product 202,Industrial Equipment,12,269.16,381.01,25.88,Pallet,True
+203,Product 203,Industrial Equipment,7,402.39,657.28,18.85,Pallet,True
+204,Product 204,Electronics,9,432.72,711.72,27.89,Pallet,True
+205,Product 205,Safety Equipment,8,102.11,136.62,25.22,Case,True
+206,Product 206,Packaging,15,411.69,732.77,8.83,Case,True
+207,Product 207,Safety Equipment,21,361.56,539.81,47.88,Unit,True
+208,Product 208,Electronics,25,41.79,70.66,0.82,Box,True
+209,Product 209,Electronics,7,119.56,194.2,25.53,Case,True
+210,Product 210,Packaging,22,320.68,564.51,24.65,Unit,True
+211,Product 211,Industrial Equipment,18,208.61,252.43,48.89,Unit,True
+212,Product 212,Office Supplies,4,350.44,511.06,45.94,Box,True
+213,Product 213,Industrial Equipment,9,311.79,421.37,39.85,Unit,True
+214,Product 214,Office Supplies,10,205.98,317.0,34.36,Unit,True
+215,Product 215,Electronics,13,429.82,711.68,19.27,Pallet,True
+216,Product 216,Packaging,14,9.68,12.61,32.42,Case,True
+217,Product 217,Safety Equipment,2,429.69,540.21,11.87,Pallet,True
+218,Product 218,Industrial Equipment,18,462.46,744.86,28.39,Unit,True
+219,Product 219,Office Supplies,19,425.96,515.15,7.64,Pallet,True
+220,Product 220,Safety Equipment,13,153.14,235.59,34.01,Case,True
+221,Product 221,Electronics,17,371.17,621.45,37.4,Case,True
+222,Product 222,Industrial Equipment,20,221.36,377.02,38.57,Pallet,True
+223,Product 223,Packaging,16,166.56,263.24,11.79,Pallet,True
+224,Product 224,Electronics,25,341.45,545.09,31.12,Box,True
+225,Product 225,Office Supplies,24,45.61,58.95,19.79,Case,True
+226,Product 226,Industrial Equipment,25,7.57,10.48,13.85,Box,True
+227,Product 227,Safety Equipment,14,218.33,334.96,5.61,Unit,True
+228,Product 228,Industrial Equipment,13,51.07,79.61,1.11,Pallet,True
+229,Product 229,Office Supplies,19,46.93,81.69,26.29,Pallet,True
+230,Product 230,Office Supplies,3,138.11,187.97,8.78,Case,True
+231,Product 231,Industrial Equipment,8,244.69,304.92,36.18,Pallet,True
+232,Product 232,Industrial Equipment,1,101.8,128.69,47.47,Case,True
+233,Product 233,Packaging,11,193.05,331.53,21.82,Box,True
+234,Product 234,Packaging,11,303.59,490.96,9.29,Pallet,True
+235,Product 235,Packaging,19,149.27,241.37,39.21,Case,True
+236,Product 236,Electronics,19,409.16,587.46,10.39,Box,True
+237,Product 237,Packaging,23,277.3,491.32,10.88,Case,True
+238,Product 238,Packaging,22,39.23,67.03,25.22,Case,True
+239,Product 239,Packaging,3,331.04,539.31,22.73,Pallet,True
+240,Product 240,Packaging,18,269.51,472.75,2.32,Case,True
+241,Product 241,Electronics,4,407.09,633.55,38.56,Case,True
+242,Product 242,Packaging,25,308.28,474.11,16.91,Pallet,True
+243,Product 243,Safety Equipment,18,53.81,71.74,29.24,Box,True
+244,Product 244,Safety Equipment,23,198.61,330.37,25.27,Case,False
+245,Product 245,Electronics,4,243.97,336.01,41.65,Box,True
+246,Product 246,Safety Equipment,16,174.82,292.05,17.74,Unit,True
+247,Product 247,Industrial Equipment,2,349.9,486.83,40.6,Unit,True
+248,Product 248,Office Supplies,24,174.82,221.26,12.57,Box,True
+249,Product 249,Packaging,8,168.84,245.8,39.99,Box,True
+250,Product 250,Safety Equipment,7,330.37,474.86,22.75,Pallet,True
+251,Product 251,Electronics,19,353.84,468.3,5.54,Box,True
+252,Product 252,Packaging,17,102.55,130.07,48.31,Case,True
+253,Product 253,Industrial Equipment,12,307.6,477.46,42.35,Box,True
+254,Product 254,Safety Equipment,19,354.46,488.61,4.7,Box,True
+255,Product 255,Industrial Equipment,23,123.09,156.35,7.5,Pallet,True
+256,Product 256,Office Supplies,16,73.24,104.75,31.96,Box,True
+257,Product 257,Industrial Equipment,15,247.37,317.67,31.16,Case,True
+258,Product 258,Packaging,18,244.88,322.53,25.52,Pallet,True
+259,Product 259,Packaging,16,248.4,403.92,8.78,Unit,True
+260,Product 260,Office Supplies,18,114.16,139.23,14.79,Pallet,True
+261,Product 261,Safety Equipment,4,387.41,580.03,28.85,Case,True
+262,Product 262,Electronics,25,412.52,585.83,36.09,Box,False
+263,Product 263,Office Supplies,10,55.7,94.58,43.8,Unit,True
+264,Product 264,Packaging,4,177.55,300.07,38.89,Box,True
+265,Product 265,Safety Equipment,21,370.12,597.18,21.69,Box,True
+266,Product 266,Safety Equipment,12,407.7,686.27,26.85,Box,True
+267,Product 267,Industrial Equipment,17,353.51,485.58,49.28,Unit,True
+268,Product 268,Electronics,9,376.3,544.49,43.42,Box,True
+269,Product 269,Industrial Equipment,8,70.68,91.02,38.19,Pallet,True
+270,Product 270,Packaging,13,290.83,395.89,22.87,Unit,True
+271,Product 271,Industrial Equipment,15,376.15,608.17,47.54,Case,True
+272,Product 272,Electronics,24,435.11,743.3,48.62,Case,True
+273,Product 273,Packaging,7,398.86,573.81,24.99,Case,True
+274,Product 274,Safety Equipment,16,172.19,266.34,39.52,Unit,True
+275,Product 275,Electronics,4,314.96,536.07,46.51,Box,True
+276,Product 276,Office Supplies,23,5.33,9.46,45.52,Case,True
+277,Product 277,Industrial Equipment,9,466.7,636.77,4.58,Box,True
+278,Product 278,Office Supplies,14,314.67,514.67,32.95,Unit,True
+279,Product 279,Office Supplies,17,241.02,308.41,34.16,Unit,True
+280,Product 280,Packaging,23,175.07,222.75,7.04,Unit,True
+281,Product 281,Electronics,11,49.22,82.87,18.69,Case,True
+282,Product 282,Office Supplies,21,387.86,640.7,49.65,Box,True
+283,Product 283,Office Supplies,15,283.83,444.53,17.88,Box,True
+284,Product 284,Packaging,7,79.93,115.66,4.79,Unit,True
+285,Product 285,Industrial Equipment,14,65.96,108.04,16.07,Box,True
+286,Product 286,Safety Equipment,20,324.09,437.17,36.2,Case,True
+287,Product 287,Industrial Equipment,7,346.79,592.57,26.13,Box,True
+288,Product 288,Office Supplies,16,151.29,186.5,19.6,Box,True
+289,Product 289,Electronics,12,299.0,453.57,46.73,Box,True
+290,Product 290,Safety Equipment,22,420.29,610.48,9.05,Pallet,True
+291,Product 291,Electronics,1,386.33,467.46,13.48,Unit,True
+292,Product 292,Industrial Equipment,21,474.6,682.85,35.78,Pallet,True
+293,Product 293,Safety Equipment,20,204.13,323.41,8.06,Unit,True
+294,Product 294,Office Supplies,18,258.1,341.19,16.67,Unit,True
+295,Product 295,Office Supplies,2,221.56,392.62,12.6,Pallet,True
+296,Product 296,Office Supplies,4,308.09,379.88,1.13,Box,True
+297,Product 297,Safety Equipment,17,86.1,152.55,39.26,Case,True
+298,Product 298,Industrial Equipment,24,67.83,113.19,44.38,Unit,True
+299,Product 299,Industrial Equipment,23,217.52,329.39,48.77,Unit,True
+300,Product 300,Safety Equipment,6,257.84,317.98,18.7,Case,True
+301,Product 301,Electronics,8,447.66,718.26,37.17,Unit,True
+302,Product 302,Packaging,12,432.15,581.99,19.46,Box,True
+303,Product 303,Packaging,8,480.37,586.64,16.43,Pallet,True
+304,Product 304,Safety Equipment,12,163.37,277.01,6.41,Unit,True
+305,Product 305,Packaging,3,403.15,721.17,43.91,Case,True
+306,Product 306,Packaging,1,158.8,198.79,18.76,Case,True
+307,Product 307,Packaging,12,155.44,244.61,29.79,Pallet,False
+308,Product 308,Safety Equipment,25,389.06,637.86,39.9,Box,True
+309,Product 309,Industrial Equipment,21,207.97,278.64,42.06,Unit,True
+310,Product 310,Industrial Equipment,4,5.72,9.12,10.66,Box,True
+311,Product 311,Office Supplies,23,480.79,857.51,14.35,Unit,True
+312,Product 312,Industrial Equipment,15,449.16,679.07,48.74,Unit,True
+313,Product 313,Packaging,3,255.19,403.79,29.8,Unit,True
+314,Product 314,Industrial Equipment,11,482.29,647.26,46.34,Pallet,True
+315,Product 315,Industrial Equipment,8,369.0,513.22,4.2,Box,True
+316,Product 316,Electronics,6,386.22,488.72,22.75,Case,True
+317,Product 317,Office Supplies,15,270.28,480.77,15.76,Case,True
+318,Product 318,Industrial Equipment,23,49.76,83.82,35.0,Unit,True
+319,Product 319,Office Supplies,12,429.0,552.98,20.11,Unit,True
+320,Product 320,Electronics,13,133.78,240.06,42.8,Box,True
+321,Product 321,Electronics,1,55.44,92.93,3.55,Box,True
+322,Product 322,Electronics,19,412.72,587.44,29.51,Unit,True
+323,Product 323,Packaging,5,36.91,64.28,5.05,Case,True
+324,Product 324,Safety Equipment,14,471.43,580.04,41.17,Pallet,True
+325,Product 325,Industrial Equipment,7,194.45,283.12,45.46,Case,True
+326,Product 326,Safety Equipment,20,442.29,539.94,12.67,Case,True
+327,Product 327,Electronics,9,441.98,657.41,19.46,Pallet,True
+328,Product 328,Safety Equipment,1,442.9,671.21,49.48,Case,True
+329,Product 329,Safety Equipment,17,391.81,551.05,16.42,Case,True
+330,Product 330,Industrial Equipment,2,162.84,216.81,40.53,Pallet,True
+331,Product 331,Office Supplies,4,384.59,692.17,12.77,Box,True
+332,Product 332,Electronics,25,409.06,716.0,49.82,Box,True
+333,Product 333,Office Supplies,6,491.42,704.23,12.21,Case,True
+334,Product 334,Electronics,23,350.33,612.51,35.18,Box,True
+335,Product 335,Packaging,18,98.18,176.02,15.8,Pallet,True
+336,Product 336,Electronics,17,32.8,51.2,24.16,Case,True
+337,Product 337,Office Supplies,11,104.72,133.86,3.45,Box,True
+338,Product 338,Safety Equipment,12,459.03,764.11,48.05,Case,True
+339,Product 339,Industrial Equipment,10,332.76,516.31,16.47,Box,True
+340,Product 340,Packaging,21,221.25,350.36,16.21,Case,True
+341,Product 341,Industrial Equipment,24,296.53,387.03,34.58,Box,True
+342,Product 342,Safety Equipment,13,5.89,9.55,42.61,Unit,True
+343,Product 343,Safety Equipment,8,162.52,273.89,32.16,Unit,True
+344,Product 344,Office Supplies,12,74.62,122.91,49.13,Box,True
+345,Product 345,Industrial Equipment,15,481.72,815.55,1.06,Box,True
+346,Product 346,Electronics,24,38.56,52.21,0.56,Pallet,True
+347,Product 347,Packaging,16,212.73,276.51,44.15,Case,True
+348,Product 348,Safety Equipment,21,55.21,82.14,38.03,Box,True
+349,Product 349,Industrial Equipment,1,41.49,70.84,16.28,Unit,True
+350,Product 350,Electronics,18,89.2,127.13,47.12,Unit,True
+351,Product 351,Electronics,14,492.71,855.31,47.15,Box,True
+352,Product 352,Industrial Equipment,7,219.93,270.98,48.73,Pallet,True
+353,Product 353,Industrial Equipment,22,362.41,593.62,14.44,Box,True
+354,Product 354,Packaging,5,199.49,305.18,3.2,Unit,True
+355,Product 355,Safety Equipment,16,150.8,240.86,10.38,Unit,True
+356,Product 356,Packaging,4,320.9,573.2,15.76,Pallet,True
+357,Product 357,Safety Equipment,13,447.96,608.78,9.65,Pallet,True
+358,Product 358,Packaging,9,225.66,306.44,11.7,Case,True
+359,Product 359,Electronics,3,79.81,129.12,33.57,Pallet,False
+360,Product 360,Packaging,17,296.91,454.91,21.22,Pallet,True
+361,Product 361,Packaging,23,121.64,167.78,2.22,Box,True
+362,Product 362,Office Supplies,7,379.81,495.17,40.52,Box,True
+363,Product 363,Office Supplies,21,43.79,70.5,7.82,Case,True
+364,Product 364,Electronics,13,364.92,614.67,28.04,Case,True
+365,Product 365,Electronics,23,262.25,459.02,31.34,Pallet,True
+366,Product 366,Safety Equipment,25,79.07,121.76,48.26,Unit,True
+367,Product 367,Industrial Equipment,18,283.53,357.42,44.07,Pallet,True
+368,Product 368,Packaging,2,329.12,507.9,9.02,Pallet,True
+369,Product 369,Electronics,13,306.28,495.01,44.53,Case,True
+370,Product 370,Industrial Equipment,12,29.4,43.66,1.5,Case,True
+371,Product 371,Electronics,8,422.21,724.07,7.15,Pallet,True
+372,Product 372,Safety Equipment,21,163.83,268.24,4.92,Pallet,True
+373,Product 373,Safety Equipment,12,412.86,678.98,41.14,Box,True
+374,Product 374,Safety Equipment,19,356.24,513.71,1.93,Box,True
+375,Product 375,Electronics,15,104.36,128.84,3.0,Case,True
+376,Product 376,Safety Equipment,13,140.62,238.22,31.95,Unit,True
+377,Product 377,Packaging,6,124.76,186.3,48.05,Pallet,True
+378,Product 378,Industrial Equipment,24,178.13,231.23,41.63,Unit,True
+379,Product 379,Safety Equipment,25,196.35,254.81,48.26,Box,True
+380,Product 380,Packaging,17,340.46,463.52,1.49,Unit,True
+381,Product 381,Electronics,8,70.5,91.93,12.99,Case,True
+382,Product 382,Packaging,12,356.14,486.21,23.22,Box,True
+383,Product 383,Packaging,19,340.21,576.52,5.56,Case,True
+384,Product 384,Electronics,16,298.92,409.4,3.66,Case,True
+385,Product 385,Industrial Equipment,7,431.44,585.33,7.92,Box,True
+386,Product 386,Safety Equipment,13,403.69,678.77,33.2,Box,True
+387,Product 387,Industrial Equipment,14,329.42,592.46,20.53,Unit,True
+388,Product 388,Industrial Equipment,24,497.4,840.41,35.81,Pallet,True
+389,Product 389,Office Supplies,22,337.57,507.84,43.89,Box,True
+390,Product 390,Safety Equipment,25,238.04,391.47,45.67,Case,True
+391,Product 391,Industrial Equipment,14,115.02,153.44,39.51,Case,True
+392,Product 392,Electronics,16,294.86,435.88,3.16,Unit,True
+393,Product 393,Packaging,17,101.3,128.84,15.27,Unit,True
+394,Product 394,Industrial Equipment,14,79.64,142.99,49.37,Pallet,True
+395,Product 395,Electronics,16,431.89,565.0,16.97,Box,True
+396,Product 396,Office Supplies,25,33.72,49.61,38.79,Box,True
+397,Product 397,Safety Equipment,14,382.97,479.79,31.86,Pallet,True
+398,Product 398,Safety Equipment,7,241.31,290.25,36.67,Unit,True
+399,Product 399,Electronics,22,379.64,576.53,0.7,Box,True
+400,Product 400,Electronics,13,439.11,609.16,25.42,Case,True
+401,Product 401,Industrial Equipment,15,412.8,569.22,36.53,Case,True
+402,Product 402,Packaging,12,344.96,441.64,37.63,Box,True
+403,Product 403,Office Supplies,8,459.51,662.63,36.49,Box,True
+404,Product 404,Electronics,12,15.85,23.82,35.7,Unit,True
+405,Product 405,Safety Equipment,2,321.96,535.34,29.9,Unit,True
+406,Product 406,Electronics,14,328.52,398.12,22.49,Unit,True
+407,Product 407,Electronics,10,239.83,309.83,21.33,Unit,True
+408,Product 408,Office Supplies,14,138.64,216.75,41.62,Unit,True
+409,Product 409,Electronics,16,310.76,425.62,10.33,Box,True
+410,Product 410,Industrial Equipment,23,416.59,743.14,20.78,Box,True
+411,Product 411,Packaging,11,250.7,332.08,12.11,Unit,True
+412,Product 412,Packaging,5,453.91,772.16,47.5,Unit,True
+413,Product 413,Office Supplies,15,55.14,74.63,49.44,Case,True
+414,Product 414,Electronics,10,29.79,50.28,18.33,Case,True
+415,Product 415,Electronics,1,62.37,106.7,42.67,Box,True
+416,Product 416,Industrial Equipment,24,447.79,793.96,5.1,Case,True
+417,Product 417,Industrial Equipment,13,203.38,361.48,34.65,Pallet,True
+418,Product 418,Electronics,5,326.18,547.38,34.96,Unit,False
+419,Product 419,Safety Equipment,16,422.95,533.86,40.21,Pallet,True
+420,Product 420,Electronics,22,192.98,273.1,44.06,Box,True
+421,Product 421,Packaging,2,246.62,427.28,3.64,Case,True
+422,Product 422,Safety Equipment,24,434.82,658.7,28.47,Case,True
+423,Product 423,Packaging,22,345.68,543.04,36.47,Pallet,True
+424,Product 424,Safety Equipment,20,339.77,486.19,3.2,Box,True
+425,Product 425,Office Supplies,3,237.3,355.36,37.7,Case,True
+426,Product 426,Office Supplies,18,485.22,596.92,32.34,Pallet,True
+427,Product 427,Safety Equipment,15,44.02,64.56,4.86,Pallet,True
+428,Product 428,Electronics,4,63.76,95.54,20.47,Unit,True
+429,Product 429,Safety Equipment,20,5.08,6.37,32.06,Box,True
+430,Product 430,Electronics,8,230.82,324.19,42.29,Case,True
+431,Product 431,Industrial Equipment,23,311.78,462.64,22.9,Unit,True
+432,Product 432,Industrial Equipment,18,114.76,161.22,26.34,Unit,True
+433,Product 433,Packaging,4,86.26,110.78,13.09,Box,True
+434,Product 434,Packaging,7,465.46,668.28,35.98,Unit,True
+435,Product 435,Safety Equipment,4,28.02,44.27,38.72,Pallet,True
+436,Product 436,Packaging,1,296.71,445.81,26.75,Unit,True
+437,Product 437,Safety Equipment,25,219.24,340.06,46.1,Box,True
+438,Product 438,Electronics,13,90.96,153.64,33.05,Case,True
+439,Product 439,Office Supplies,9,195.41,349.33,20.19,Case,False
+440,Product 440,Packaging,20,229.16,293.33,35.15,Case,True
+441,Product 441,Safety Equipment,21,276.16,383.41,11.26,Box,True
+442,Product 442,Office Supplies,23,148.84,209.44,32.68,Box,True
+443,Product 443,Electronics,25,348.68,485.86,17.94,Pallet,True
+444,Product 444,Safety Equipment,10,471.62,766.89,43.94,Pallet,True
+445,Product 445,Office Supplies,2,263.75,320.5,33.68,Box,True
+446,Product 446,Industrial Equipment,5,393.84,705.02,42.05,Case,True
+447,Product 447,Packaging,4,272.88,386.18,31.0,Box,True
+448,Product 448,Industrial Equipment,23,282.83,379.72,33.39,Pallet,True
+449,Product 449,Industrial Equipment,18,478.57,854.48,3.16,Case,True
+450,Product 450,Packaging,8,435.08,746.71,45.62,Case,True
+451,Product 451,Office Supplies,10,275.57,430.45,22.72,Unit,True
+452,Product 452,Packaging,2,91.03,137.3,21.71,Case,True
+453,Product 453,Industrial Equipment,15,294.07,397.88,35.63,Box,True
+454,Product 454,Safety Equipment,22,464.67,724.02,15.41,Case,True
+455,Product 455,Office Supplies,17,355.3,538.36,3.87,Box,True
+456,Product 456,Office Supplies,7,270.83,339.94,33.34,Case,True
+457,Product 457,Safety Equipment,16,113.13,186.84,49.83,Unit,True
+458,Product 458,Safety Equipment,20,176.27,236.94,12.57,Unit,True
+459,Product 459,Electronics,13,163.86,286.68,13.2,Case,True
+460,Product 460,Safety Equipment,17,260.85,433.61,22.56,Unit,True
+461,Product 461,Electronics,4,327.51,455.96,8.79,Unit,True
+462,Product 462,Office Supplies,22,109.34,172.51,21.5,Unit,True
+463,Product 463,Packaging,21,415.23,717.18,40.93,Unit,True
+464,Product 464,Industrial Equipment,2,81.11,119.68,4.83,Unit,True
+465,Product 465,Office Supplies,9,129.69,161.11,20.68,Pallet,True
+466,Product 466,Electronics,18,219.35,265.44,0.79,Unit,True
+467,Product 467,Electronics,12,294.88,477.86,46.44,Unit,True
+468,Product 468,Industrial Equipment,25,344.51,538.79,46.37,Pallet,True
+469,Product 469,Safety Equipment,8,332.06,492.91,7.25,Pallet,True
+470,Product 470,Office Supplies,10,425.49,585.89,34.03,Case,True
+471,Product 471,Office Supplies,4,10.52,18.15,2.57,Pallet,True
+472,Product 472,Industrial Equipment,7,473.75,655.11,20.93,Box,True
+473,Product 473,Office Supplies,4,114.29,194.39,9.48,Unit,True
+474,Product 474,Packaging,21,466.52,838.14,27.71,Case,True
+475,Product 475,Safety Equipment,16,129.09,170.2,47.6,Case,True
+476,Product 476,Safety Equipment,3,329.46,415.13,45.06,Case,True
+477,Product 477,Safety Equipment,5,167.53,267.32,28.49,Case,True
+478,Product 478,Industrial Equipment,8,479.54,623.97,39.39,Pallet,True
+479,Product 479,Industrial Equipment,16,182.95,294.14,23.41,Case,True
+480,Product 480,Safety Equipment,3,246.05,311.33,42.17,Box,True
+481,Product 481,Electronics,24,102.23,167.67,4.23,Unit,True
+482,Product 482,Safety Equipment,13,317.66,536.08,38.58,Box,True
+483,Product 483,Safety Equipment,16,278.04,424.31,32.87,Box,True
+484,Product 484,Industrial Equipment,5,115.54,192.18,23.5,Unit,True
+485,Product 485,Safety Equipment,22,253.57,405.11,8.71,Box,True
+486,Product 486,Office Supplies,24,93.68,165.74,36.73,Case,True
+487,Product 487,Industrial Equipment,12,381.93,511.42,12.08,Box,True
+488,Product 488,Packaging,2,396.77,568.51,2.48,Case,True
+489,Product 489,Industrial Equipment,24,484.38,765.39,13.53,Box,True
+490,Product 490,Electronics,17,192.37,298.68,12.95,Box,True
+491,Product 491,Packaging,16,179.68,309.16,44.42,Unit,True
+492,Product 492,Electronics,17,73.79,95.88,32.35,Box,True
+493,Product 493,Electronics,22,82.89,129.41,11.9,Case,True
+494,Product 494,Office Supplies,19,243.35,361.93,8.48,Pallet,True
+495,Product 495,Office Supplies,5,26.36,40.7,31.66,Unit,True
+496,Product 496,Office Supplies,17,77.7,100.99,47.93,Unit,True
+497,Product 497,Electronics,7,365.35,618.46,22.74,Pallet,True
+498,Product 498,Safety Equipment,5,89.43,151.87,39.83,Box,True
+499,Product 499,Industrial Equipment,15,257.85,335.37,30.03,Unit,True
+500,Product 500,Office Supplies,17,195.8,247.71,43.05,Pallet,True

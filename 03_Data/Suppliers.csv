@@ -1,0 +1,26 @@
+SupplierID,SupplierName,ContactPerson,Email,Country,LeadTimeDays,SupplierRating,IsActive
+1,Supplier 1,Allison Hill,donaldgarcia@example.net,United States,3,4.0,True
+2,Supplier 2,Angie Henderson,davisjesse@example.net,Canada,10,1.6,True
+3,Supplier 3,Cristian Santos,lrobinson@example.com,United States,24,4.0,True
+4,Supplier 4,Abigail Shaffer,jpeterson@example.org,China,5,3.4,True
+5,Supplier 5,Gabrielle Davis,howardmaurice@example.com,United States,3,1.4,True
+6,Supplier 6,Monica Herrera,smiller@example.net,Canada,19,3.4,True
+7,Supplier 7,Shannon Ray,williamsjeremy@example.com,China,9,3.9,True
+8,Supplier 8,Dr. Sharon James,xreid@example.org,China,16,1.9,True
+9,Supplier 9,Daniel Adams,lynchgeorge@example.net,China,11,4.2,True
+10,Supplier 10,Joel Nelson,gabriellecameron@example.org,United States,27,4.2,True
+11,Supplier 11,Andrew Stewart,carl95@example.org,Germany,13,2.1,True
+12,Supplier 12,Jennifer Rocha,ithomas@example.org,Canada,27,2.3,True
+13,Supplier 13,Kimberly Burgess,zhurst@example.com,United States,15,1.4,True
+14,Supplier 14,Zachary Hicks,camposmichelle@example.org,Mexico,22,2.1,True
+15,Supplier 15,Rebecca Henderson,cruzcaitlin@example.com,United States,26,2.8,True
+16,Supplier 16,Tricia Valencia,frazierdanny@example.net,United States,15,1.3,True
+17,Supplier 17,Patricia Peterson,ryan70@example.net,Mexico,29,3.5,True
+18,Supplier 18,Deborah Mason,williamrodriguez@example.net,Mexico,21,1.8,True
+19,Supplier 19,Mark Lynch,nathanielmartin@example.net,United States,4,3.6,True
+20,Supplier 20,Linda Burns,hickmannatasha@example.com,Mexico,5,4.4,True
+21,Supplier 21,David Bradley,millertodd@example.org,United States,15,2.1,True
+22,Supplier 22,Kim Martinez,karroyo@example.com,Mexico,8,2.5,True
+23,Supplier 23,Lisa Brandt,jenniferross@example.net,Canada,24,2.1,True
+24,Supplier 24,Jessica Holmes,wrightcaleb@example.org,United States,22,3.5,True
+25,Supplier 25,Crystal Robinson,zimmermanbrian@example.org,China,26,2.0,True

@@ -1,0 +1,9 @@
+WarehouseID,WarehouseName,City,State,Region,Capacity,ManagerName,IsActive
+1,Chicago Distribution Center,Chicago,IL,Midwest,31891,Angela Davis,True
+2,Milwaukee Distribution Center,Milwaukee,WI,Midwest,71289,Robert Jones,True
+3,Dallas Distribution Center,Dallas,TX,South,69903,Jessica Brandt,True
+4,Atlanta Distribution Center,Atlanta,GA,South,45682,Dean Edwards,True
+5,New York Distribution Center,New York,NY,Northeast,76516,Mercedes Moss,True
+6,Boston Distribution Center,Boston,MA,Northeast,40379,Dillon Jones,True
+7,Los Angeles Distribution Center,Los Angeles,CA,West,50365,Richard Richards,True
+8,Seattle Distribution Center,Seattle,WA,West,66099,Christopher Owens,True

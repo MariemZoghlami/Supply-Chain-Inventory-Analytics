@@ -1,0 +1,201 @@
+CustomerID,CompanyName,Industry,City,State,Region,ContactPerson,Email,CustomerType,IsActive
+1,Heath Inc 1,Technology,West Elizabeth,IL,West,Miranda Khan,esanchez@example.com,Mid-Market,False
+2,Davis Ltd 2,Hospitality,Gomezchester,NH,Northeast,Amy Valdez,brownjessica@example.org,Enterprise,True
+3,Lee PLC 3,Retail,Taylorburgh,KY,Northeast,Shannon Jones,williamsyvette@example.org,Small Business,True
+4,House and Sons 4,Technology,South Todd,IL,South,Stephanie Martin,gallowayjoseph@example.com,Small Business,True
+5,Henderson-Bernard 5,Hospitality,Mooreport,IL,South,Lauren Daniels,brian97@example.net,Small Business,True
+6,"Moore, Yu and Miller 6",Technology,North Brooke,TX,West,Jennifer David,bethwilliams@example.org,Small Business,True
+7,Sandoval-Cunningham 7,Healthcare,Sarahborough,TN,South,Cynthia Foster,stephen10@example.com,Enterprise,True
+8,"Murillo, Ferrell and Jones 8",Hospitality,New Joseph,MI,West,Sherry Wood,samueldaniels@example.com,Mid-Market,True
+9,"Riggs, Roman and Rice 9",Healthcare,Sarahville,FM,West,Brian Rodriguez,josephjacobs@example.net,Small Business,True
+10,Harris-Walters 10,Retail,Williamview,MH,Northeast,Amber Walters,bradley52@example.net,Enterprise,True
+11,Martin-Ramos 11,Technology,Hoffmanville,CA,Midwest,Melissa Hernandez,davenportbrandi@example.org,Mid-Market,True
+12,Anderson-Parker 12,Technology,West Jasonbury,TN,South,Richard Henson,vdickson@example.org,Enterprise,True
+13,Hancock and Sons 13,Retail,Johnsonmouth,WY,Midwest,Rebekah Shields,josephcobb@example.org,Enterprise,True
+14,Brennan-Garrison 14,Manufacturing,East Lisa,NH,South,Robert Savage,andrewlee@example.com,Small Business,True
+15,Lin-Rasmussen 15,Healthcare,Michaelhaven,MO,West,Sarah Rivera,wilsontara@example.org,Small Business,False
+16,"Estes, Baker and Rodriguez 16",Manufacturing,Reedmouth,NE,Northeast,Kayla Cruz,jonathanfletcher@example.org,Enterprise,True
+17,"Frost, Ryan and Ball 17",Manufacturing,West Ryan,TN,Northeast,Lisa Alvarado,cortezkevin@example.com,Small Business,True
+18,"Ortiz, Powell and Phillips 18",Healthcare,East Robert,MS,Midwest,Stephanie Gilbert,richard04@example.com,Enterprise,True
+19,Jordan PLC 19,Retail,Stevenmouth,TX,Midwest,John Santana,donnacampbell@example.net,Mid-Market,True
+20,"Harvey, Davis and Crane 20",Manufacturing,Lake Lance,AS,Northeast,Alexander Sanchez,xcarr@example.org,Small Business,True
+21,Perry-Soto 21,Hospitality,Lake Heather,NM,Midwest,Charles Watts,osbornejeffery@example.net,Small Business,True
+22,"Marshall, Grant and Lowery 22",Retail,South Dennismouth,TN,Northeast,Kristin Stewart,usalazar@example.net,Small Business,True
+23,Rivas-Kelley 23,Hospitality,Lake Michelle,NV,Northeast,David Walsh,rsims@example.com,Mid-Market,True
+24,Reeves and Sons 24,Hospitality,Matthewside,CO,West,David Benson,calebrussell@example.net,Small Business,True
+25,Perry-Clark 25,Healthcare,Priceshire,UT,South,Spencer Johnston,wsmith@example.com,Mid-Market,False
+26,Castaneda-Ashley 26,Manufacturing,Medinaside,AS,West,Connie Robinson,ytucker@example.com,Enterprise,True
+27,"Shelton, Powell and Martin 27",Healthcare,Calhounside,AK,Northeast,Leslie Alvarado,dayderek@example.com,Small Business,True
+28,Williams Group 28,Hospitality,Jasonmouth,MA,Northeast,Jamie Walton,fking@example.com,Enterprise,True
+29,Curry Inc 29,Retail,Jeffreyland,WI,Midwest,Amanda Johnson,jamessmith@example.org,Small Business,True
+30,Martinez Ltd 30,Retail,New Staciemouth,UT,South,Jacob Obrien,stricklandfrank@example.com,Small Business,True
+31,Lane LLC 31,Manufacturing,Sandersborough,CA,West,Sandra Sanchez,melissa91@example.net,Small Business,True
+32,Reed Group 32,Hospitality,Caseymouth,AL,West,Samantha Garcia,cynthia72@example.com,Small Business,True
+33,Gross Ltd 33,Technology,Christinaside,WI,Northeast,Mr. Nicholas Adams,mariahmiller@example.com,Small Business,True
+34,Christensen PLC 34,Technology,Rogersfort,PR,South,John Kelly,matthew94@example.net,Mid-Market,True
+35,Black and Sons 35,Retail,East Jenniferfort,OH,Midwest,Melissa Brewer,bwest@example.org,Small Business,True
+36,Walker-Holt 36,Manufacturing,Elizabethstad,NJ,Midwest,Hailey Barajas,michael74@example.com,Small Business,True
+37,Hall-Griffith 37,Hospitality,Davidside,WV,West,Cheryl Rodgers,jenny89@example.com,Small Business,True
+38,Wall LLC 38,Manufacturing,West Harry,AL,West,Beth Williams,tranheidi@example.org,Small Business,True
+39,"Oneill, Henry and Salas 39",Retail,Taylormouth,MA,West,Anthony Everett,ewilson@example.com,Enterprise,True
+40,Jones-Soto 40,Hospitality,East Edwardshire,ME,Midwest,David Grant,yobrien@example.net,Small Business,True
+41,Rowe Group 41,Healthcare,Kerrport,VI,Northeast,Jessica Carroll,lynchjody@example.org,Mid-Market,True
+42,"Clark, Guerrero and Moore 42",Healthcare,New Charles,AL,West,Michael Harrison,halljasmine@example.net,Small Business,True
+43,Jones-Hall 43,Retail,Kristinshire,TN,West,Christina Wilson,deborahkerr@example.org,Mid-Market,True
+44,Brown LLC 44,Technology,Scottmouth,UT,South,James Nelson,mkim@example.org,Mid-Market,True
+45,Navarro-Munoz 45,Hospitality,North Jeremyshire,OR,West,Yvonne Chambers,barbara27@example.net,Small Business,True
+46,"Ramos, Ramirez and Shea 46",Healthcare,Waltersfort,CO,Midwest,Jason Morris,hodgemark@example.net,Enterprise,True
+47,Roberts-Landry 47,Retail,South Christopherview,MD,South,Raymond Hancock,sandovalamy@example.com,Small Business,True
+48,Lopez LLC 48,Technology,Garrettton,IL,Northeast,Carlos Roberts,omartinez@example.net,Small Business,False
+49,Mckinney LLC 49,Retail,New Rickybury,MP,Northeast,Julia Wilson,tyronemoran@example.net,Small Business,True
+50,"Hill, Davenport and Baird 50",Healthcare,South Andrea,MS,West,Kyle Francis,michellehill@example.com,Small Business,True
+51,Villa-Romero 51,Hospitality,West Jessicashire,OR,Northeast,Mrs. Brittany Ryan MD,ugibson@example.org,Enterprise,True
+52,"Allen, Reyes and Chase 52",Hospitality,Williamsfort,VT,Midwest,Jane Mcneil,tylerjohnson@example.net,Mid-Market,True
+53,"Rivera, Garcia and Kirk 53",Hospitality,New Reneetown,VA,South,Seth Booker,harrisontanya@example.com,Mid-Market,True
+54,"Schwartz, Santos and Christian 54",Manufacturing,Finleyfort,VI,Northeast,Lisa Young,wendy16@example.org,Mid-Market,True
+55,"Padilla, Garcia and Jackson 55",Manufacturing,Rebeccaton,MD,West,Elaine Brooks,johnjenkins@example.net,Mid-Market,True
+56,Jackson Inc 56,Retail,Harveybury,NM,Midwest,Briana Murray,steve07@example.com,Mid-Market,True
+57,"Payne, Jones and Landry 57",Hospitality,Daniellechester,UT,Midwest,Ryan Gonzalez,gcastaneda@example.org,Small Business,True
+58,Armstrong-Andrews 58,Hospitality,Andrewfurt,KY,South,Sean Osborne,lozanojulie@example.com,Small Business,True
+59,Lawson LLC 59,Retail,Lake James,KS,Northeast,Michelle Hopkins,courtneyberger@example.net,Mid-Market,True
+60,Parker Group 60,Technology,New Michaelberg,CO,South,Erin Perry,davidryan@example.com,Enterprise,False
+61,"Shaw, Nelson and Martin 61",Hospitality,Coffeyport,WA,Midwest,Regina Mcdonald,taylortammy@example.net,Enterprise,True
+62,"Craig, Sanders and Singleton 62",Manufacturing,Christopherfurt,AL,Midwest,Caleb Richardson,brenda51@example.net,Small Business,True
+63,Ruiz PLC 63,Retail,Rosebury,SD,Northeast,Rodney Blankenship,debra12@example.org,Mid-Market,True
+64,Torres Group 64,Healthcare,North Jimmyside,DC,South,Jacob Avery,umatthews@example.org,Small Business,True
+65,Pena-Bass 65,Manufacturing,Crosbyview,AZ,West,Claudia Wallace,melissagarcia@example.net,Mid-Market,True
+66,Stephens-Levine 66,Retail,Bruceview,ID,Midwest,Tiffany Holloway,batesdarlene@example.net,Enterprise,True
+67,Williams LLC 67,Manufacturing,East Kristin,IL,Midwest,Phillip Clark,lisahall@example.org,Small Business,True
+68,"Smith, Garrison and Thomas 68",Healthcare,New John,HI,South,Sean Anderson,kristy39@example.com,Small Business,True
+69,Thompson Inc 69,Hospitality,Lake Robert,DE,West,Karen Strickland,hayesjeffrey@example.net,Enterprise,True
+70,Acosta Ltd 70,Retail,Stephentown,AR,Northeast,Dr. Jessica Rodriguez DDS,fjones@example.com,Enterprise,True
+71,"Hernandez, Martinez and Weber 71",Manufacturing,Oscarhaven,LA,Northeast,Larry Garcia,farrelldebra@example.net,Mid-Market,True
+72,"Glenn, Jordan and Beasley 72",Manufacturing,Morganmouth,MO,South,Brandon Simmons,nicholas27@example.org,Small Business,True
+73,Decker Inc 73,Healthcare,Davisstad,AS,Northeast,Anthony Frye,elizabeth65@example.net,Enterprise,True
+74,Parrish-Griffith 74,Hospitality,Carolinestad,CT,West,Christy Douglas,melaniebell@example.net,Enterprise,True
+75,Wilson-Ramirez 75,Healthcare,Port Roy,OH,Northeast,Sabrina Austin,lynchdiane@example.net,Small Business,True
+76,Johnson-Nelson 76,Retail,Sandrastad,AL,Northeast,Charles Sandoval,thomascynthia@example.org,Enterprise,True
+77,Reese and Sons 77,Technology,Barnesmouth,GA,Northeast,Nathan Frank,wareeric@example.net,Mid-Market,True
+78,Craig LLC 78,Retail,Stanleyfort,PA,West,Donald Fischer,reeddaniel@example.net,Small Business,True
+79,"Watkins, Rose and Parker 79",Healthcare,South Tracey,AR,Northeast,Eric Clark,kathrynroberts@example.org,Mid-Market,True
+80,Jimenez Group 80,Healthcare,East Omar,VT,Northeast,Justin Barnett,charles06@example.org,Small Business,True
+81,Morse-Atkins 81,Technology,Berrychester,LA,South,Alex Nguyen,xcollier@example.org,Mid-Market,True
+82,Richard-Sanchez 82,Manufacturing,Warrenfurt,VI,South,Gerald Cook,charlesschultz@example.net,Enterprise,True
+83,"Lee, Parsons and Bell 83",Hospitality,East Curtis,KS,South,Lance Wolf,thompsonkendra@example.com,Small Business,True
+84,Webster-Wolf 84,Manufacturing,Maldonadoshire,SD,Northeast,Lori Lin,edward17@example.com,Enterprise,False
+85,"Turner, Hill and Brown 85",Manufacturing,West Steventon,AR,Midwest,Dustin Newman,gilbertwilliam@example.com,Small Business,True
+86,"Spencer, Conner and Huang 86",Manufacturing,Stoutshire,SD,South,Larry Mason,hayeslisa@example.com,Mid-Market,True
+87,"Miller, Lucas and Williams 87",Hospitality,Ritterhaven,NC,Midwest,Helen Hardin,vortiz@example.net,Mid-Market,True
+88,"Williams, Mccoy and Cook 88",Healthcare,Codyfurt,LA,South,Samuel Brandt,mathewaguilar@example.org,Small Business,True
+89,Collins-Douglas 89,Retail,Andersonland,ME,Northeast,Maria Murphy,elizabethcalderon@example.net,Mid-Market,True
+90,"Gaines, Davis and Santiago 90",Manufacturing,Andrewport,HI,South,Gloria Miranda,jeremytaylor@example.org,Enterprise,True
+91,Richard-Garcia 91,Manufacturing,Lake Matthewberg,PA,South,Christopher Guerra,jenniferwilliams@example.com,Enterprise,True
+92,"Ball, Montes and Bishop 92",Technology,Youngbury,ME,South,Rachel Mckee,michealvalentine@example.com,Enterprise,True
+93,Hammond-Strickland 93,Technology,Burchborough,AS,West,Shelley Williams,jsawyer@example.org,Enterprise,True
+94,"Singleton, Rosales and Mitchell 94",Healthcare,West Shannon,NY,South,Jeffrey Potts,lisawilkerson@example.org,Mid-Market,True
+95,Brown-Shaw 95,Retail,South Virginia,MN,South,Fernando Garcia,lacey20@example.com,Mid-Market,True
+96,Horton-Taylor 96,Hospitality,Westtown,MH,South,David Conley,srodriguez@example.org,Mid-Market,True
+97,Martinez-Allen 97,Healthcare,Brownfort,PA,West,Lynn Andrews,kellysmith@example.com,Enterprise,True
+98,Duncan and Sons 98,Retail,New Theresaland,NC,South,Rachel Romero,myerstheodore@example.net,Enterprise,True
+99,Zavala-King 99,Hospitality,West Kristinastad,IA,South,Lori Ingram,dennis58@example.com,Small Business,True
+100,"Thompson, Maxwell and Marshall 100",Healthcare,Welchberg,CA,South,Terri Johnson,bradleygonzalez@example.org,Small Business,True
+101,Mahoney-Robertson 101,Healthcare,Kingborough,LA,Midwest,Richard Glenn,joshua56@example.com,Small Business,True
+102,"Gonzales, Huber and Morgan 102",Technology,South Heather,MN,Midwest,Kelly Owen,mmiller@example.org,Mid-Market,True
+103,"Carter, Garcia and Murphy 103",Hospitality,Kirkchester,GA,Northeast,Heather Williams,christina64@example.net,Enterprise,True
+104,Jones Ltd 104,Technology,Coxburgh,AK,West,Lawrence Harrington,martinezjoel@example.net,Small Business,True
+105,Cox-Herring 105,Retail,New Ericmouth,MN,Midwest,Phillip Berry,raymond43@example.org,Mid-Market,True
+106,Fitzgerald Group 106,Hospitality,Mcintyreville,KS,West,Michele Lewis,heather73@example.org,Small Business,True
+107,Farrell Group 107,Retail,Lake Sean,CO,West,Tracy Downs,jenna88@example.com,Small Business,True
+108,York-Joseph 108,Hospitality,Port Michael,IN,South,Curtis Taylor,jjohnson@example.net,Mid-Market,True
+109,Mcdonald-Bird 109,Hospitality,New Nicole,CA,West,Zachary Higgins,khammond@example.org,Enterprise,True
+110,Compton Ltd 110,Healthcare,South Stevenhaven,MI,West,Ronald Arnold,katrinaanderson@example.net,Mid-Market,True
+111,Guerra PLC 111,Healthcare,West Fred,MD,South,Courtney Meza,meghan43@example.net,Enterprise,True
+112,"Hill, Weber and Mendez 112",Healthcare,New Danielleshire,OR,South,Matthew Le,megan90@example.org,Mid-Market,True
+113,Williams Ltd 113,Manufacturing,Debrashire,MT,Northeast,Amanda Small,dawn47@example.org,Mid-Market,True
+114,"Sullivan, Chavez and Barker 114",Hospitality,South Robert,NH,Midwest,Lawrence Edwards,jessica56@example.org,Small Business,True
+115,Robertson-Rodriguez 115,Technology,South David,NV,Northeast,Brent Roberts,alin@example.org,Enterprise,True
+116,Li PLC 116,Technology,Jamesburgh,NM,West,Julie Koch DDS,landrywilliam@example.org,Mid-Market,True
+117,Aguilar Inc 117,Technology,West Troyfort,LA,Midwest,Sarah Jordan,jessica65@example.org,Small Business,True
+118,Williams-Hoffman 118,Technology,Angelaland,MS,Midwest,Pamela Ramirez,andersoncolin@example.com,Enterprise,True
+119,Grant-Diaz 119,Retail,East Carrie,MO,South,Amber Taylor,linda87@example.org,Mid-Market,True
+120,"Barry, Taylor and Velazquez 120",Technology,Franciscoport,OR,Northeast,Ronald Patel,thomas05@example.com,Mid-Market,True
+121,"Rodriguez, Butler and Parker 121",Technology,New Thomasshire,OK,West,Anthony Castillo,rhernandez@example.org,Small Business,True
+122,Armstrong Ltd 122,Technology,East Andrewmouth,MT,Northeast,Michael Jenkins,vsalas@example.net,Mid-Market,True
+123,Thornton PLC 123,Hospitality,New Mark,TN,Midwest,James Frye,vbarr@example.net,Mid-Market,True
+124,Lowe-Dillon 124,Retail,Chelseaborough,IA,Midwest,Edwin David,kellie37@example.com,Enterprise,True
+125,Bailey-Peck 125,Technology,Keithshire,TX,Northeast,Stephanie Foster,stephanie24@example.org,Small Business,True
+126,Moses-Miller 126,Manufacturing,Douglasfort,IL,Northeast,Joshua Fitzpatrick,derrick99@example.org,Mid-Market,True
+127,Williams PLC 127,Technology,Lake Jesse,CT,South,Mitchell Garcia,adampierce@example.org,Mid-Market,True
+128,Delgado-Gilmore 128,Retail,Woodsborough,WV,West,Erica Brewer,pearsonjesse@example.net,Small Business,True
+129,"Jefferson, Johnson and Dorsey 129",Retail,Khanburgh,PW,South,Russell French,sharonhayden@example.com,Small Business,True
+130,Smith PLC 130,Retail,West Justinside,NC,Midwest,Todd Rosales MD,lisarivera@example.net,Small Business,True
+131,Wong-Higgins 131,Retail,Lake Matthewport,OK,Northeast,Cheryl Carr,gwilcox@example.com,Small Business,True
+132,Morales Inc 132,Retail,East Thomas,IA,Northeast,James Griffin,stephanie49@example.net,Mid-Market,True
+133,"Smith, Valdez and Schwartz 133",Manufacturing,Lake Davidport,GA,Northeast,Jonathan Jacobson,hannah45@example.net,Enterprise,True
+134,Robinson and Sons 134,Retail,Hernandezstad,MT,Northeast,Susan Todd,kathleenbecker@example.net,Mid-Market,True
+135,Fox PLC 135,Retail,Christianshire,DE,South,Joshua Wagner,franklinbond@example.com,Enterprise,True
+136,Frazier Ltd 136,Technology,Davishaven,NV,West,Jody Palmer,jelliott@example.com,Enterprise,True
+137,"Roman, Cummings and Foster 137",Hospitality,Lake Jefferyland,AZ,Northeast,Michael Weaver,michaelcesar@example.com,Small Business,True
+138,Mitchell and Sons 138,Manufacturing,Port Darlene,VA,Midwest,Jennifer Haney,ywest@example.com,Enterprise,True
+139,Vega Ltd 139,Manufacturing,Lake Michelle,DE,West,Joshua Rice,maryavila@example.com,Enterprise,True
+140,Nunez-Stephens 140,Hospitality,Morrowbury,NH,South,Donald Pineda,johnsondonna@example.net,Small Business,True
+141,Allen Inc 141,Technology,New Arthurton,IA,Midwest,Jennifer Young,karenparsons@example.org,Mid-Market,False
+142,"Holder, Young and Hendricks 142",Technology,Barbaramouth,IA,Northeast,Charles Keller,roberthill@example.net,Mid-Market,True
+143,"Hobbs, Buck and Garrett 143",Hospitality,Peterston,MI,South,Megan Floyd,heather62@example.com,Enterprise,True
+144,White-Medina 144,Hospitality,Port Jeremiah,PR,West,Renee Melendez,jfaulkner@example.net,Mid-Market,True
+145,Price LLC 145,Hospitality,West Deborah,NV,South,Anna Hardy,brettbennett@example.net,Mid-Market,True
+146,"Williams, Jones and Ballard 146",Retail,South Jason,PW,South,Tyler Smith,suzannewilson@example.com,Mid-Market,True
+147,Dominguez Ltd 147,Technology,South Rose,OH,West,Douglas Owens,kyle58@example.com,Mid-Market,True
+148,Garcia-Zavala 148,Manufacturing,Gillmouth,PW,Northeast,Erik Williams,joycesmith@example.net,Mid-Market,True
+149,"Riley, Butler and Hernandez 149",Manufacturing,Jerryshire,MP,South,Juan Harding,jonathan77@example.com,Mid-Market,True
+150,Oconnor LLC 150,Manufacturing,East Jennifer,NM,Midwest,Steve Mooney,warrenmary@example.org,Enterprise,True
+151,"Williams, Smith and Taylor 151",Retail,North Jasmine,AL,Northeast,Jesus Brown,bhopkins@example.org,Enterprise,True
+152,"Arnold, Smith and Moreno 152",Hospitality,Amandaport,AK,Northeast,Melissa Jordan,danieldavis@example.org,Enterprise,True
+153,Lee PLC 153,Technology,Lisaview,WY,West,Jake Sullivan,veronicaperez@example.net,Small Business,True
+154,Valdez Ltd 154,Healthcare,North Richardfurt,OH,West,Mark Warner,porterryan@example.com,Enterprise,True
+155,"Madden, Dickson and Jacobson 155",Hospitality,East Jasonshire,NJ,South,Thomas Cohen,rachel90@example.org,Mid-Market,True
+156,Smith-Clark 156,Manufacturing,Port Lori,GU,West,Billy Martin,ashleyatkinson@example.net,Enterprise,True
+157,"Rivera, Campos and Taylor 157",Manufacturing,New Juliestad,AR,West,David Jones,unovak@example.org,Mid-Market,True
+158,"Nelson, Riddle and Henry 158",Healthcare,Angelafurt,NE,Midwest,Kevin James,lauren11@example.com,Enterprise,True
+159,James Ltd 159,Retail,Lake Peter,MN,Northeast,Aaron Parker,kathleen12@example.org,Small Business,True
+160,Jordan PLC 160,Technology,Garcialand,MI,South,Linda Mueller,asmith@example.com,Enterprise,True
+161,Hardy PLC 161,Hospitality,New Adriana,TX,South,Charles Turner,kthomas@example.com,Small Business,True
+162,Fisher-Washington 162,Manufacturing,West Johnathanbury,VA,Northeast,Linda Gonzalez,tayloradam@example.com,Mid-Market,True
+163,Skinner-James 163,Retail,Scottchester,GU,Northeast,Marilyn Wheeler,malik37@example.com,Mid-Market,True
+164,Oconnell LLC 164,Retail,Jessicafort,OK,South,Erika Ramirez,kdiaz@example.org,Enterprise,True
+165,"Osborn, White and Saunders 165",Technology,Lake Stevenborough,NV,Midwest,Sandra Jones,ichambers@example.net,Small Business,True
+166,Allen-Hopkins 166,Technology,Mccormickland,NV,West,Karen Morales DDS,ystephens@example.com,Mid-Market,True
+167,"Woodard, Herrera and Little 167",Retail,North Kaylastad,GA,South,Amanda Terrell,vrasmussen@example.com,Mid-Market,True
+168,Smith LLC 168,Retail,New Julie,OH,West,Laura Griffin,rford@example.net,Mid-Market,True
+169,"Mason, Cooper and Johnson 169",Retail,West Robertland,DE,Northeast,Monica Bailey,stanley38@example.com,Small Business,True
+170,Alvarez-Kim 170,Manufacturing,Floresport,AZ,Midwest,Ashley Sweeney,byrdfrank@example.net,Small Business,True
+171,Black PLC 171,Technology,West Anita,NH,Northeast,Jared Lopez,vfoster@example.net,Enterprise,True
+172,Cole Group 172,Technology,Smithborough,IL,South,Michael Flynn,lloydamanda@example.com,Enterprise,False
+173,Gonzalez-Wilson 173,Manufacturing,Rosemouth,PA,Midwest,James Wilson,megan92@example.net,Enterprise,False
+174,"Mcbride, Sellers and Lawrence 174",Retail,West David,ME,Northeast,James Thomas,ibarnes@example.net,Enterprise,True
+175,Henderson-Tucker 175,Retail,New Garrett,LA,Northeast,Ernest Hayes,glennstephanie@example.com,Small Business,True
+176,Lee Group 176,Retail,Ortizfort,MT,Northeast,Jill Jackson,flynnjeffrey@example.org,Small Business,True
+177,Walker-Roberts 177,Hospitality,Cunninghamfort,OH,West,Laura Adams,amber07@example.net,Mid-Market,True
+178,Fritz Inc 178,Manufacturing,West Nancy,AZ,South,Gregory Montoya,hgrimes@example.org,Enterprise,True
+179,Cochran PLC 179,Retail,Michellechester,GA,Northeast,Rachel Li,hudsonamanda@example.net,Mid-Market,True
+180,"Jackson, Werner and Carter 180",Hospitality,Stephaniehaven,MH,Northeast,Anna Estes,rsellers@example.net,Mid-Market,True
+181,Miles and Sons 181,Healthcare,East Jennifer,MP,Northeast,Ryan Long,barbaraadams@example.com,Mid-Market,True
+182,Hayes-Schultz 182,Retail,South Zacharyview,UT,Midwest,Jackie Clements,brandi17@example.net,Small Business,True
+183,"Terry, Horn and Flynn 183",Hospitality,Robinsonchester,GU,South,Derrick Clayton,amy29@example.com,Mid-Market,True
+184,Shannon-Farmer 184,Manufacturing,North Conniemouth,AK,West,Scott Alexander,braunronald@example.net,Mid-Market,True
+185,Khan LLC 185,Technology,Port Sarah,KY,West,Isaac Miller,brettgarrett@example.net,Small Business,True
+186,"Fischer, Patterson and Davis 186",Technology,North Jasonland,DC,South,Kelly Wallace,dominguezlisa@example.com,Enterprise,True
+187,"Anderson, Jones and Reyes 187",Retail,North Lawrenceport,DC,Northeast,Robert Baxter,caseyelliott@example.net,Enterprise,True
+188,"Martin, Bell and Lewis 188",Hospitality,South Christina,NV,Midwest,Angelica Garcia,lawrencepatrick@example.com,Enterprise,True
+189,Moody-Wright 189,Hospitality,East Angelaport,WI,Midwest,Alyssa Boone,jamie98@example.org,Small Business,True
+190,"Myers, Lucas and Bowers 190",Technology,South Paul,IA,South,Mr. Joseph Levine DVM,david96@example.com,Small Business,False
+191,"Vega, Farmer and Best 191",Technology,North Brendatown,KS,West,Thomas Fry,ohunter@example.net,Small Business,True
+192,"Wang, Henderson and Morales 192",Technology,West Christopher,CO,South,Christina Morton,peter14@example.net,Mid-Market,True
+193,Blair-Mathis 193,Healthcare,East Christopherchester,DE,South,Lee Parker,davidzimmerman@example.net,Mid-Market,True
+194,Martin LLC 194,Manufacturing,Garyberg,WA,West,Debra Tanner,rogersruben@example.net,Enterprise,True
+195,Baker PLC 195,Retail,South Spencerstad,AR,South,Mr. Jacob Scott Jr.,perezwilliam@example.org,Mid-Market,True
+196,Sanchez Group 196,Technology,Patrickberg,HI,Midwest,Shannon Tran,pwalker@example.com,Enterprise,True
+197,"Flores, Mckenzie and Duncan 197",Technology,New Emilyton,HI,West,Jose Williams,djones@example.com,Small Business,True
+198,Murphy-Tran 198,Manufacturing,West Jamesshire,WY,West,Marcus Marshall,xcuevas@example.org,Enterprise,True
+199,"Mccullough, Hodges and Sanchez 199",Retail,South Andrewside,MI,Northeast,Melissa Smith,aaron64@example.org,Mid-Market,True
+200,Moreno and Sons 200,Manufacturing,Vasquezton,FL,West,Anna Morse,xhaynes@example.com,Enterprise,True
