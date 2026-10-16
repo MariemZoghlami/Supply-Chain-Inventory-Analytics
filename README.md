@@ -121,3 +121,21 @@ The resulting dashboard provides a centralized view of sales, inventory, supplie
 **Mariem Zoghlami**
 
 Data Analytics | SQL | Python | Power BI | Business Intelligence
+
+
+## Dashboard Screenshots
+
+### 1. Executive Overview
+![Executive Overview](04_PowerBI/Screenshots/1.png)
+
+### 2. Inventory Analysis
+![Inventory Analysis](04_PowerBI/Screenshots/2.png)
+
+### 3. Supplier Performance
+![Supplier Performance](04_PowerBI/Screenshots/3.png)
+
+### 4. Shipping & Delivery
+![Shipping and Delivery](04_PowerBI/Screenshots/4.png)
+  
+
+
